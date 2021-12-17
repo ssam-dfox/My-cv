@@ -1,0 +1,25 @@
+body {
+    background-color: #2E4C6D;
+    color: #DADDFC;
+    font-family: sans-serif;
+}
+
+h2 {
+  color: #FC997C;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#myName {
+  font-size: 30px;
+  color: #ff8460;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+hr {
+    border: hidden;
+    border-top: dotted;
+    border-width: thick;
+    width: 7%;
+}
